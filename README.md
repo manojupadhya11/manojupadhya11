@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Upadhya</h1>
-<h3 align="center">A passionate Cloud and DevOps Engineer From India. I work in corporate IT sector and in my free time I work on Freelance or self projects related to Clod-DevOps.</h3>
+<h3 align="center">A passionate Cloud and DevOps Engineer From India. I work in corporate IT sector and in my free time I work on Freelance or self projects related to Cloud-DevOps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojupadhya11&label=Profile%20views&color=0e75b6&style=flat" alt="manojupadhya11" /> </p>
 
