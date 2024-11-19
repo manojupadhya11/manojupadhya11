@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojupadhya11&label=Profile%20views&color=0e75b6&style=flat" alt="manojupadhya11" /> </p>
 
-- 🔭 I’m currently working on [Shell Scriptring Projects](https://github.com/manojupadhya11/Shell_Scripting_Projects)
+- 🔭 I’m currently working on [Cloud and DevOps Projects](https://github.com/manojupadhya11?tab=repositories)
 
 - 🌱 I’m currently learning **Cloud-DevSecOps & Cloud Security**
 
