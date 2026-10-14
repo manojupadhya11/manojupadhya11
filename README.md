@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Cloud and DevOps Projects](https://github.com/manojupadhya11?tab=repositories)
 
-- 🌱 I’m currently learning **Cloud-DevSecOps & Cloud Security**
+- 🌱 I’m exploring Cloud-DevSecOps and AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manojupadhya11](https://github.com/manojupadhya11)
 
